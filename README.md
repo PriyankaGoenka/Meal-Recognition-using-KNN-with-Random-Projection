@@ -7,7 +7,7 @@ ReleasedDatasetReduced.csv : This is the test dataset with reduced features whic
 
 ImagePreprocessing.py : Python file for image preprocessing. It is used as an input for RandomProjection.m file.
 
-RandomProjection.py : Python file to reduce the features of original dataset. It is used as an input for knn.m file.
+RandomProjection.py : Python file to reduce the features of original dataset and get the output as DatasetReduced.csv and ReleasedDatasetReduced.csv. It is used as an input for knn.m file.
 
 knn.m : K Nearest Neighbour, programmed in Matlab.
  
