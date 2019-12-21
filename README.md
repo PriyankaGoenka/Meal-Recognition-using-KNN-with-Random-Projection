@@ -1,4 +1,4 @@
-# KNN-with-Random-Projection
+# Meal Recognition using KNN with Random Projection
 This project contains the following files:
 
 DatasetReduced.csv : This is the train dataset with reduced features which is used in MainR.m file.
